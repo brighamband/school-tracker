@@ -23,11 +23,11 @@
 			<tr>
 				<td>{el.class}</td>
 				<td />
+				<td>add here</td>
 				<td />
 				<td />
 				<td />
 				<td />
-				<td>import</td>
 				<td />
 			</tr>
 		{/each}
